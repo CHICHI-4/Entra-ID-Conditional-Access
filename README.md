@@ -14,10 +14,6 @@ Environment
 - Date of testing: 15th August 2025 to 2*th August 2025
 
 
-Contact
--Name: Chinwe Domitila Ayiba 
--Contact: chinwedomitila@gmail.com
-
 
 Repository contents
 - ANSWERS.md — concise answers for Tasks 1–9.
@@ -31,5 +27,11 @@ Repository contents
 
 Notes on auditability
 - Screenshots contains  timestamps and the  admin username
+
+
+Contact
+-Name: Chinwe Domitila Ayiba 
+-Email: chinwedomitila@gmail.com
+
 
 
