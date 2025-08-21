@@ -30,7 +30,7 @@ Sign-in risk CA policy (User1)
 
 
 Task 4 — Enforcement outcome
-- Visible experience: User sees a remediation prompt to change their password or receives an email to change password depending on remediation path.
+- Visible experience: User sees a remediation prompt to change their password.
 <img width="958" height="540" alt="Simulation result for User 1" src="https://github.com/user-attachments/assets/8b43f0d0-d78b-4a07-8a8f-7857c7873234" />
 <img width="850" height="14" alt="User 1 log" src="https://github.com/user-attachments/assets/42c9e73e-6b84-4a6d-bf29-97f92321021f" />
 <img width="1920" height="1080" alt="Security result for User 1 on Entra ID" src="https://github.com/user-attachments/assets/1bdfaf01-ac70-4898-82a8-354097c11f5f" />
@@ -40,7 +40,7 @@ Task 5 — Location CA policy (User2)
 - Users: include chinwe's user2
 - Named location: Nigeria block 1 (create by Microsoft location), Location:Nigeria
 - Network — Include: Nigeria
-- Condition: Sign-in risk
+- Condition: Sign-in risk,medium and high
 - Grant: Block access
 - Enabled policy: on
 
@@ -50,4 +50,5 @@ Task 6 — Test blocking
   <img width="944" height="532" alt="Simulation result for User 2" src="https://github.com/user-attachments/assets/5514fc49-4e01-47a9-8017-2c2f50503016" />
 <img width="870" height="13" alt="User 2 log" src="https://github.com/user-attachments/assets/68d1389f-da1a-4cfe-b372-d4607fd70507" />
 
-
+Task 7 - Recommendation
+-Integrate Entra ID with SIEM like Sentinel and Wazuh for faster risk detection.
