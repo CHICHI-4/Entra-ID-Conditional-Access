@@ -14,6 +14,11 @@ Environment
 - Date of testing: 15th August 2025 to 2*th August 2025
 
 
+Contact
+-Name: Chinwe Domitila Ayiba 
+-Contact: chinwedomitila@gmail.com
+
+
 Repository contents
 - ANSWERS.md — concise answers for Tasks 1–9.
 - POLICY_USER1_RISK.md — exact configuration for risk policy for User1.
