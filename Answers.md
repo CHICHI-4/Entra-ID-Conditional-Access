@@ -1,3 +1,7 @@
-ertjkkkllll
-![IMG-20240817-WA0109 1](https://github.com/user-attachments/assets/71ec0eab-7584-4302-aa1e-b1a560683a30)
+1. what is your name
 
+answer:
+my name is chinwe
+
+
+<img width="957" height="503" alt="Assigned license" src="https://github.com/user-attachments/assets/e7c1cc68-a079-4134-9b58-f596bde4bf0b" />
