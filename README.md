@@ -26,5 +26,5 @@ Repository contents
 
 Notes on auditability
 - Screenshots contains  timestamps and the  admin username
-- Any automation commands used are included in `evidence/` as `.ps1` or `.json` with outputs.
+
 
